@@ -1,0 +1,22 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "[📝 공부] 노마드코더 - 타입스크립트로 블록체인 만들기",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeongeum/Typescript-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeongeum/Typescript-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Jeongeum/Typescript-Blockchain#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
